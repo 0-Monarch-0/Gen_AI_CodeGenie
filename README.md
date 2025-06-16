@@ -45,3 +45,12 @@ You can try the complete working of this project in Colab here:
 
 ## 📂 Project Structure
 
+Gen_AI_CodeGenie/
+├── app.py # Streamlit frontend
+├── CodeModel.py # Code generation logic
+├── logs.txt # Server logs
+├── README.md # Project documentation
+
+
+---
+
