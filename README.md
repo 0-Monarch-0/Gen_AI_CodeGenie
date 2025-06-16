@@ -19,7 +19,7 @@ CodeGenie is an AI-based web application that allows users to convert natural la
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="[https://i.imgur.com/qAK45t5.png](https://github.com/0-Monarch-0/Gen_AI_CodeGenie/blob/main/demo.PNG?raw=true)" alt="Main Interface" width="700"/>
+  <img src="https://github.com/0-Monarch-0/Gen_AI_CodeGenie/blob/main/demo.PNG?raw=true" alt="Main Interface" width="700"/>
 </p>
 
 ---
