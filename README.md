@@ -24,6 +24,21 @@ CodeGenie is an AI-based web application that allows users to convert natural la
 
 ---
 
+## 🎥 Demo Video
+
+Watch the working demo of CodeGenie in action here:  
+🔗 [CodeGenie Demo Video](https://drive.google.com/file/d/1LrnzihiA0I025dSwsyOQ6CIVgjCOsmuI/view?usp=sharing)
+
+---
+
+## 📄 Project Report
+
+The detailed project report includes problem statement, objectives, tools and technologies, project architecture, code structure, features, limitations, and contributions.
+
+📥 [View the Full Report](https://github.com/0-Monarch-0/Gen_AI_CodeGenie/blob/main/CodeGenie_Project_Report.docx)
+
+---
+
 ## 🧪 Try it on Google Colab
 
 You can try the complete working of this project in Colab here:  
@@ -33,13 +48,13 @@ You can try the complete working of this project in Colab here:
 
 ## 🛠 Tech Stack
 
-| Tool         | Purpose                                |
-|--------------|----------------------------------------|
-| `Python`     | Backend logic                          |
-| `Streamlit`  | Frontend and UI                        |
-| `transformers` | Model loading and inference         |
+| Tool                        | Purpose                                  |
+|-----------------------------|------------------------------------------|
+| `Python`                   | Backend logic                            |
+| `Streamlit`                | Frontend and UI                          |
+| `transformers`             | Model loading and inference              |
 | `Salesforce/codegen-350M-multi` | Pre-trained code generation model |
-| `LocalTunnel`| To expose the app to the public web   |
+| `LocalTunnel`              | To expose the app to the public web      |
 
 ---
 
@@ -50,7 +65,3 @@ Gen_AI_CodeGenie/
 ├── CodeModel.py # Code generation logic
 ├── logs.txt # Server logs
 ├── README.md # Project documentation
-
-
----
-
